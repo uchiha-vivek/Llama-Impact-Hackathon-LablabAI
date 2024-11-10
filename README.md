@@ -28,7 +28,7 @@ Follow these steps to set up Tax Assitant on your local machine:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/uchiha-vivek/Llama-Impact-Hackathon-LablabAIgit
+   git clone https://github.com/uchiha-vivek/Llama-Impact-Hackathon-LablabAI.git
    ```
 
 2. Navigate to the project directory:
